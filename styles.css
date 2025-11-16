@@ -1,0 +1,22 @@
+body {
+    background-color: hsl(212, 45%, 89%);
+}
+
+
+
+.card, .card-img-top {
+    font-family: "Outfit", sans-serif;
+    font-size: 15px;
+    border-radius: 20px;
+}
+
+.card-title {
+    color: hsl(218, 44%, 22%);
+    font-weight: 700;
+}
+
+p {
+
+    font-weight: 400;
+    color: hsl(216, 15%, 48%);
+}
